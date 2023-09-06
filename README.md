@@ -1,6 +1,6 @@
 # Cryptocurrency Clustering with Unsupervised Learning
 
-This project contains the following components:
+This project notebook (crypto_investments.ipynb) contains the following components:
 
 * Data Import
   * Importing required libraries
